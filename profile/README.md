@@ -1,12 +1,61 @@
-## Hi there 👋
 
-<!--
+ ![](./banner.png)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center"><u>About Us</u></h2>
+
+- 🧠 **Who we are:** We are a research laboratory at the Federal University of Ouro Preto (UFOP), located in the ICEA (Institute of Exact and Applied Sciences).
+
+<h2 align="center"><u>What do we do?</u></h2>
+  
+- 💬 Our focus is on **machine learning**, **data discovery**, **heuristics**, **meta-heuristics**, **complex networks**, and a wide range of related fields.
+- 📊 We conduct research, develop new algorithms, and apply advanced methods to solve problems related to **data analysis**, **network modeling**, and **artificial intelligence**.
+- 🌐 [Visit our official website!](https://discoverydatalab.ufop.br/)
+
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Research Areas</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Machine Learning & AI</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools & Platforms</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </kbd>
+  <br>
+  <br>
+</p>
+
+![research gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<h2 align="center"><u>Our Research & Contributions</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoveryDataLab&layout=compact&theme=github_dark&langs_count=10">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscoveryDataLab&count_private=true&show_icons=true&theme=github_dark">
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiscoveryDataLab&theme=holi-theme">
+</p>
+
+-----
+
+*Last Edited on: 23/09/2024*
