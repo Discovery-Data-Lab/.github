@@ -45,17 +45,6 @@
 
 ![research gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center"><u>Our Research & Contributions</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoveryDataLab&layout=compact&theme=github_dark&langs_count=10">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscoveryDataLab&count_private=true&show_icons=true&theme=github_dark">
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiscoveryDataLab&theme=holi-theme">
-</p>
-
 -----
 
 *Last Edited on: 23/09/2024*
