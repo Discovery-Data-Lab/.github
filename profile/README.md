@@ -1,6 +1,4 @@
-
- ![](./banner.png)
-
+![](https://github.com/Discovery-Data-Lab/DDL-BLOG/blob/main/static/img/logo.png)
 
 <h2 align="center"><u>About Us</u></h2>
 
@@ -47,4 +45,4 @@
 
 -----
 
-*Last Edited on: 23/09/2024*
+*Last Edited on: 13/10/2024*
